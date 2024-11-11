@@ -23,7 +23,7 @@ Uma aplicação Pokedex baseada em TypeScript e Vue, exibindo informações deta
 
 **Calculadora de Notas de Alunos**  
 Aplicação web onde professores podem inserir várias notas e calcular médias para determinar se o aluno passa.  
-[Repositório no GitHub](https://github.com/RafaSS/calculadora-notas)
+[Repositório no GitHub](https://github.com/RafaSS/CalculadoraDeNotasJava)
 
 ---
 
