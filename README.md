@@ -30,6 +30,8 @@ Aplicação web onde professores podem inserir várias notas e calcular médias 
 ### 📈 Estatísticas do GitHub
 ![Estatísticas do GitHub de Rafael](https://github-readme-stats.vercel.app/api?username=RafaSS&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 
+![Linguagens mais usadas:](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaSS&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
+
 ---
 
 ### 📫 Contato
