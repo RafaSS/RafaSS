@@ -19,7 +19,7 @@ Sou um desenvolvedor dedicado com experiência em desenvolvimento front-end e ba
 
 **Aplicativo Pokedex**  
 Uma aplicação Pokedex baseada em TypeScript e Vue, exibindo informações detalhadas sobre Pokémon.  
-[Repositório no GitHub](https://github.com/RafaSS/pokedex)
+[Repositório no GitHub](https://github.com/RafaSS/PokedexVue)
 
 **Calculadora de Notas de Alunos**  
 Aplicação web onde professores podem inserir várias notas e calcular médias para determinar se o aluno passa.  
