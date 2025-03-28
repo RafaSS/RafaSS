@@ -25,7 +25,7 @@ Uma aplicação Pokedex baseada em TypeScript e Vue, exibindo informações deta
 SyncDoc é um aplicativo de edição colaborativa de documentos em tempo real que permite que vários usuários editem o mesmo documento simultaneamente.
 [Repositório no GitHub](https://github.com/RafaSS/SyncDoc_Back-end)
 
-**E-commerce**
+**E-commerce**  
 Um aplicativo de comércio eletrônico completo criado com Nuxt 3, Tailwind CSS, Shadcn UI e Supabase.
 [Repositório no GitHub](https://github.com/RafaSS/e-commerce)
 
