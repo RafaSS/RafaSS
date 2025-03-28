@@ -9,9 +9,9 @@ Sou um desenvolvedor dedicado com experiência em desenvolvimento front-end e ba
 
 ### 🚀 Habilidades
 - **Linguagens**: JavaScript, TypeScript, Python, PHP, Java
-- **Front-End**: Vue.js, React, HTML5, CSS3, TailwindCSS
-- **Back-End**: Node.js, Spring Boot, Express, MySQL, MongoDB
-- **Ferramentas & Plataformas**: Docker, Git, GitHub, Firebase, AWS
+- **Front-End**: Vue.js, React, HTML5, CSS3, TailwindCSS,Nuxt.js, shadcn
+- **Back-End**: Node.js, Spring Boot, Express, MySQL, MongoDB,
+- **Ferramentas & Plataformas**: Docker, Git, GitHub, Supabase, AWS,Drizzle
 - **Testes**: Vitest, Jest, Mocha, JUnit
 
 
