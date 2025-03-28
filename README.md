@@ -21,10 +21,14 @@ Sou um desenvolvedor dedicado com experiência em desenvolvimento front-end e ba
 Uma aplicação Pokedex baseada em TypeScript e Vue, exibindo informações detalhadas sobre Pokémon.  
 [Repositório no GitHub](https://github.com/RafaSS/PokedexVue)
 
-**Calculadora de Notas de Alunos**  
-Aplicação web onde professores podem inserir várias notas e calcular médias para determinar se o aluno passa.  
-[Repositório no GitHub](https://github.com/RafaSS/CalculadoraDeNotasJava)
+**Editor de texto colaborativo**  
+SyncDoc é um aplicativo de edição colaborativa de documentos em tempo real que permite que vários usuários editem o mesmo documento simultaneamente.
+[Repositório no GitHub](https://github.com/RafaSS/SyncDoc_Back-end)
 
+
+**E-commerce**
+Um aplicativo de comércio eletrônico completo criado com Nuxt 3, Tailwind CSS, Shadcn UI e Supabase.
+[Repositório no GitHub] [https://github.com/RafaSS/e-commerce/](url)
 ---
 
 ### 📈 Estatísticas do GitHub
