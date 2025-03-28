@@ -28,7 +28,7 @@ SyncDoc é um aplicativo de edição colaborativa de documentos em tempo real qu
 
 **E-commerce**
 Um aplicativo de comércio eletrônico completo criado com Nuxt 3, Tailwind CSS, Shadcn UI e Supabase.
-[Repositório no GitHub] [https://github.com/RafaSS/e-commerce/](url)
+[Repositório no GitHub](https://github.com/RafaSS/e-commerce/)
 ---
 
 ### 📈 Estatísticas do GitHub
